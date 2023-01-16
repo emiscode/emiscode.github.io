@@ -1,0 +1,7 @@
+.sobre {
+  --pink: #ff66bfff;
+}
+
+a {
+  color: var(--pink);
+}

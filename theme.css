@@ -1,0 +1,28 @@
+:root {
+  --blue: #66ccffff;
+  --green: #5effd7ff;
+  --white: #dbd9f2ff;
+  --purple: #7266ffff;
+  --darkpurple: #171433ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 16px;
+  color: var(--purple);
+  background: var(--darkpurple);
+}
+
+a {
+  color: var(--blue);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--green);
+}
