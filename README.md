@@ -1,1 +1,1 @@
-# 👨‍💻 My GitHub Page Labs
+# 👨‍💻 My GitHub Pages Labs
